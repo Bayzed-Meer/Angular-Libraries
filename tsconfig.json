@@ -9,6 +9,11 @@
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
+    "paths": {
+      "ngx-http-error-handler-lib": [
+        "./dist/ngx-http-error-handler-lib"
+      ]
+    },
     "esModuleInterop": true,
     "sourceMap": true,
     "declaration": false,
