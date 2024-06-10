@@ -3,3 +3,4 @@
  */
 
 export * from './lib/ngx-http-error-handler-lib.service';
+export * from './lib/ngx-http-error-handler.interceptor';
